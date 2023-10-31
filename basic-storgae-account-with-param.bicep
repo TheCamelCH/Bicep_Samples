@@ -1,4 +1,4 @@
-param storageaccountname string = 'enrico_Storageaccount'
+param storageaccountname string = 'enricostorageaccount'
 param location string = 'switzerland north'
 
 resource stg 'Microsoft.Storage/storageAccounts@2023-01-01' = {
